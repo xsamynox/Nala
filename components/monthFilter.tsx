@@ -7,19 +7,16 @@ type SelectProps = {
 
 const MonthFilter = ({ handleChange, months }: SelectProps) => {
   return (
-    <div className="w-max">
-      <h6 className="mt-0 text-base font-medium leading-tight text-primary mb-5">
-        Puedes filtrar por:
-      </h6>
+    <>
       <select onChange={handleChange} data-te-select-init>
         {months.map((month) => (
           <option key={month} value={month}>
-            {month}
+            {month.charAt(0).toUpperCase() + month.slice(1)}
           </option>
         ))}
       </select>
-      <label data-te-select-label-ref>Meses</label>
-    </div>
+      <label data-te-select-label-ref>Mes:</label>
+    </>
   );
 };
 
