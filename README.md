@@ -2,7 +2,7 @@
 
 ## 1. Desafio técnico
 
-![Desafio Técnico](desafioTecnico.png)
+![Desafio Técnico](https://drive.google.com/file/d/1qg95RFSVG6Sez1gzrGA7sMeUIu0GpK9v/view?usp=sharing)
 
 ## 2. Uso
 
@@ -31,7 +31,7 @@ Para correr el proyecto en el puerto.
 
 ## 3. Demo
 
-![demo](demo.mov)
+![demo](https://drive.google.com/file/d/1ViEGZB16i-Qk_YWSEqDxTIgnJmLCV5Z4/view?usp=sharing)
 
 ## 4. Herramientas utilizadas
 
