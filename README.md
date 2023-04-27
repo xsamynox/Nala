@@ -31,7 +31,7 @@ Para correr el proyecto en el puerto.
 
 ## 3. Demo
 
-![demo](https://drive.google.com/file/d/1ViEGZB16i-Qk_YWSEqDxTIgnJmLCV5Z4/view?usp=sharing)
+https://user-images.githubusercontent.com/26368688/234913724-8e7a4b31-87e7-4919-81fc-8b7b3053a922.mov
 
 ## 4. Herramientas utilizadas
 
