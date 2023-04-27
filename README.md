@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desafio técnico para postular a Nala
 
-## Getting Started
+## 1. Desafio técnico
 
-First, run the development server:
+![Desafio Técnico](desafioTecnico.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## 2. Uso
+
+Para poder correr el proyecto es necesario principalmente clonar dicho proyecto en tu computador.
+
+```
+Asegurate de tener instalado Node en tu computador v16.8.0 >
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Luego:
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+```
+npm install || npm i 
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Para instalar todos los paquetes del proyecto.
 
-## Learn More
+Luego:
 
-To learn more about Next.js, take a look at the following resources:
+```
+npm run dev 
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para correr el proyecto en el puerto.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 3. Demo
 
-## Deploy on Vercel
+![demo](demo.mov)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 4. Herramientas utilizadas
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Iconify: para poder utilizar iconos.
+* tailwind: para los estilos.
+* tw-elements: igualmente para estilos que ya vienen predefinidos por tailwind.
+* react-organization-chart: para poder crear más fácilmene la estructura del organigrama.
+* read-excel-file: para poder leer y procesar archivos de excel.
+* 
+
+
+## Autor ✒️
+
+* **Samantha Moreno** [GitHub](https://github.com/xsamynox) :octocat: - Front-end Developer
